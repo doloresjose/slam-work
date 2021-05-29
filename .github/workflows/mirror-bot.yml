@@ -8,7 +8,7 @@ on:
    
 env:
   # Change these values if you have forked it for your own works
-  GitHubMail: "dolores.jose@pm.me"
+  GitHubMail: "dolores.jose@pm.e"
   GitHubName: "doloresjose" 
   Branch: "master"
 
