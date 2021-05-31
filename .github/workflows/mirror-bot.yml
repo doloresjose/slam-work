@@ -9,7 +9,7 @@ on:
 env:
   # Change these values if you have forked it for your own works
   GitHubMail: "dolores.jose@pm.me"
-  GitHubName: "doloresjos" 
+  GitHubName: "doloresjose" 
   Branch: "master"
 
 jobs:
