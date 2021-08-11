@@ -3,7 +3,7 @@ name: MirrorBot Environment
 on:
   push:
     branches: [ main ]
-    paths-ignore: 'README.md'
+    paths-ignore: 'README.m'
   workflow_dispatch:
    
 env:
