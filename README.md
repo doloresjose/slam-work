@@ -5,7 +5,7 @@ You can use [this repos](https://github.com/ghostmirrorlab/mirror-bot-repos) as 
 
 First setup everything then push to your private Repository
 
-Then Fork this Repo
+Then Fork this Rep
 
 Setup secrets in settings --> Secrets
 
